@@ -1,0 +1,6 @@
+cost_price=eval(input("enter your product  cost price"))
+selling_price=eval(input("enter your product selling  price"))
+profit=selling_price-cost_price
+print("your profit is",profit)
+new_selling_price=selling_price+profit*0.05
+print("if u increase the profit by 5% the new selling price will be",new_selling_price)
