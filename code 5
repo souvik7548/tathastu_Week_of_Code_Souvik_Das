@@ -1,0 +1,8 @@
+x=eval(input("enter number which you want to swap x=\n"))
+y=eval(input("enter number which you want to swap y=\n"))
+x=x+y
+y=x-y
+x=x-y
+print("after swapping your result will be\n")
+print("x is=",x)
+print("y is=",y)
