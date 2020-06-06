@@ -1,0 +1,37 @@
+#LOGICAL OPERATOR
+
+print("3+4 is =",3+4)#addition
+print("4*3 is =",3*4)#subtraction
+print("13%3  is =",13%3)#modulas
+print("12/3 is =",12/3)#division
+print("4-3 is =",4-3)#subtraction
+print("4**3 is= ",4**3)#exponentiation
+print("12//4 is=",12//4)#flor division
+
+#ARITHMETIC OPERATOR
+
+x=5
+y=10
+print(x+y)
+
+#LOGICAL OPERATOR
+#1->
+x=5
+y=5
+print(x==y)
+
+#2->
+
+x=True
+y=False
+print(x and y)
+print(x or y)
+
+#IDENTITY OPERATOR
+
+x=True
+y=False
+print(x is y)
+print(x is not y)
+
+
